@@ -681,7 +681,7 @@ A $1M donor who opens every email and clicks every link has high propensity.
 A $1M donor who never opens your emails and never clicks has low propensity.  
 These donors should be engaged differently.
 
-This tool measures the latter — using only the data you already own. We give you a clear propensity rating so your team can use their time more efficiently!
+This tool measures the latter — using only the data you already own. We give you a clear propensity rating so your team understands how to use their time more efficiently!
             """
         )
 
