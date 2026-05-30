@@ -671,14 +671,17 @@ def main():
 
         st.markdown(
             """
-            Most donor tools sell you **capacity** — how much money someone could give (wealth screening, income estimates, home values).
+            About This Score
+Most wealth screening tools sell you capacity — how much someone could give (via wealth screening, income estimates, and home values).
 
-            We score **propensity** — the real reason people ignore you (or finally decide to give).
+At R. Miller Consulting, we score propensity — the real reason people don’t engage (or finally decide to give).
 
-            A $75k donor who opens every email and clicks every link has high propensity.  
-            A millionaire who never opens your emails has low propensity.
+A $1M donor who opens every email and clicks every link has high propensity.
 
-            This tool measures the latter — using only the data you already own.
+A $1M donor who never opens your emails and never clicks has low propensity.  
+These donors should be engaged differently.
+
+This tool measures the latter — using only the data you already own. We give you a clear propensity rating so your team can use their time more efficiently!
             """
         )
 
